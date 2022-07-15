@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **vhh0106/vhh0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-, I am VU HOANG HIEP 
+, I am VU HOANG HIEP, 
 
-[![YouTube Badge](https://img.shields.io/badge/-@VU HOANG HIEP%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCGOCILLRlxt_rkZ9Zf4Ns4A)](https://www.youtube.com/channel/UCGOCILLRlxt_rkZ9Zf4Ns4A) [![Twitter Badge](https://img.shields.io/badge/-@vhh0106-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vhh0106)](https://twitter.com/vhh0106) [![Instagram Badge](https://img.shields.io/badge/-@vhh0106.it-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/vhh0106.it/)]
-[![Gmail Badge](https://img.shields.io/badge/-vhh0106@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vhh0106@gmail.com)](mailto:vhh0106@gmail.com)
 
 
 
